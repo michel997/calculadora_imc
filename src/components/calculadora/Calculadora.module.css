@@ -1,0 +1,33 @@
+.title {
+    text-align: center;
+    padding-top: 60px;
+    color: var(--corPrimaria);
+}
+
+.form {
+    text-align: center;
+    padding: 20px;
+}
+
+.formLabel {
+    font-size: 20px;
+    font-weight: bold;
+    color: var(--corPrimaria);
+}
+
+.formInput {
+    color: var(--corPrimaria);
+    width: 160px;
+    padding: 15px;
+    font-size: 22px;
+    text-align: center;
+    border: 2px solid var(--corPrimaria);
+    border-radius: 30px;
+    outline: none;
+}
+
+.result {
+    text-align: center;
+    font-size: 22px;
+    color: var(--corPrimaria);
+}

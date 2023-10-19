@@ -1,0 +1,26 @@
+.title {
+    text-align: center;
+    padding-top: 80px;
+    color: var(--corPrimaria);
+}
+
+.table {
+    color: var(--corPrimaria);
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    border: 1px solid;
+    min-width: 400px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.table thead th {
+    background-color: var(--corPrimaria);
+    color: var(--corSecundaria);
+}
+
+.table tbody td {
+    border-bottom: 1px solid var(--corPrimaria);
+}

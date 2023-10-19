@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gabarito', sans-serif;
+    background-color: var(--corSecundaria);
+}
+
+:root {
+    --corPrimaria: #F7FFE0;
+    --corSecundaria: #263238;
+}
